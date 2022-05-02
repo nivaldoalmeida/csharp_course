@@ -1,0 +1,16 @@
+C:\Users\nivas\Documents\c#\solucaodeproblemas\teste11\bin\Debug\net5.0\teste11.exe
+C:\Users\nivas\Documents\c#\solucaodeproblemas\teste11\bin\Debug\net5.0\teste11.deps.json
+C:\Users\nivas\Documents\c#\solucaodeproblemas\teste11\bin\Debug\net5.0\teste11.runtimeconfig.json
+C:\Users\nivas\Documents\c#\solucaodeproblemas\teste11\bin\Debug\net5.0\teste11.runtimeconfig.dev.json
+C:\Users\nivas\Documents\c#\solucaodeproblemas\teste11\bin\Debug\net5.0\teste11.dll
+C:\Users\nivas\Documents\c#\solucaodeproblemas\teste11\bin\Debug\net5.0\teste11.pdb
+C:\Users\nivas\Documents\c#\solucaodeproblemas\teste11\obj\Debug\net5.0\teste11.csproj.AssemblyReference.cache
+C:\Users\nivas\Documents\c#\solucaodeproblemas\teste11\obj\Debug\net5.0\teste11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nivas\Documents\c#\solucaodeproblemas\teste11\obj\Debug\net5.0\teste11.AssemblyInfoInputs.cache
+C:\Users\nivas\Documents\c#\solucaodeproblemas\teste11\obj\Debug\net5.0\teste11.AssemblyInfo.cs
+C:\Users\nivas\Documents\c#\solucaodeproblemas\teste11\obj\Debug\net5.0\teste11.csproj.CoreCompileInputs.cache
+C:\Users\nivas\Documents\c#\solucaodeproblemas\teste11\obj\Debug\net5.0\teste11.dll
+C:\Users\nivas\Documents\c#\solucaodeproblemas\teste11\obj\Debug\net5.0\refint\teste11.dll
+C:\Users\nivas\Documents\c#\solucaodeproblemas\teste11\obj\Debug\net5.0\teste11.pdb
+C:\Users\nivas\Documents\c#\solucaodeproblemas\teste11\obj\Debug\net5.0\teste11.genruntimeconfig.cache
+C:\Users\nivas\Documents\c#\solucaodeproblemas\teste11\obj\Debug\net5.0\ref\teste11.dll

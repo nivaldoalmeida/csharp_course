@@ -1,0 +1,16 @@
+C:\Users\nivas\Documents\c#\Baskara\obj\Debug\net5.0\Baskara.csproj.AssemblyReference.cache
+C:\Users\nivas\Documents\c#\Baskara\obj\Debug\net5.0\Baskara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nivas\Documents\c#\Baskara\obj\Debug\net5.0\Baskara.AssemblyInfoInputs.cache
+C:\Users\nivas\Documents\c#\Baskara\obj\Debug\net5.0\Baskara.AssemblyInfo.cs
+C:\Users\nivas\Documents\c#\Baskara\obj\Debug\net5.0\Baskara.csproj.CoreCompileInputs.cache
+C:\Users\nivas\Documents\c#\Baskara\bin\Debug\net5.0\Baskara.exe
+C:\Users\nivas\Documents\c#\Baskara\bin\Debug\net5.0\Baskara.deps.json
+C:\Users\nivas\Documents\c#\Baskara\bin\Debug\net5.0\Baskara.runtimeconfig.json
+C:\Users\nivas\Documents\c#\Baskara\bin\Debug\net5.0\Baskara.runtimeconfig.dev.json
+C:\Users\nivas\Documents\c#\Baskara\bin\Debug\net5.0\Baskara.dll
+C:\Users\nivas\Documents\c#\Baskara\bin\Debug\net5.0\Baskara.pdb
+C:\Users\nivas\Documents\c#\Baskara\obj\Debug\net5.0\Baskara.dll
+C:\Users\nivas\Documents\c#\Baskara\obj\Debug\net5.0\refint\Baskara.dll
+C:\Users\nivas\Documents\c#\Baskara\obj\Debug\net5.0\Baskara.pdb
+C:\Users\nivas\Documents\c#\Baskara\obj\Debug\net5.0\Baskara.genruntimeconfig.cache
+C:\Users\nivas\Documents\c#\Baskara\obj\Debug\net5.0\ref\Baskara.dll

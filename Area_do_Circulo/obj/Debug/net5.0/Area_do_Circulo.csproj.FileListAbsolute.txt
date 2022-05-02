@@ -1,0 +1,5 @@
+C:\Users\nivas\Documents\c#\Area_do_Circulo\obj\Debug\net5.0\Area_do_Circulo.csproj.AssemblyReference.cache
+C:\Users\nivas\Documents\c#\Area_do_Circulo\obj\Debug\net5.0\Area_do_Circulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nivas\Documents\c#\Area_do_Circulo\obj\Debug\net5.0\Area_do_Circulo.AssemblyInfoInputs.cache
+C:\Users\nivas\Documents\c#\Area_do_Circulo\obj\Debug\net5.0\Area_do_Circulo.AssemblyInfo.cs
+C:\Users\nivas\Documents\c#\Area_do_Circulo\obj\Debug\net5.0\Area_do_Circulo.csproj.CoreCompileInputs.cache

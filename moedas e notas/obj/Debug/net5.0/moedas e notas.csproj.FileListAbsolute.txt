@@ -1,0 +1,16 @@
+C:\Users\nivas\Documents\c#\moedas e notas\bin\Debug\net5.0\moedas e notas.exe
+C:\Users\nivas\Documents\c#\moedas e notas\bin\Debug\net5.0\moedas e notas.deps.json
+C:\Users\nivas\Documents\c#\moedas e notas\bin\Debug\net5.0\moedas e notas.runtimeconfig.json
+C:\Users\nivas\Documents\c#\moedas e notas\bin\Debug\net5.0\moedas e notas.runtimeconfig.dev.json
+C:\Users\nivas\Documents\c#\moedas e notas\bin\Debug\net5.0\moedas e notas.dll
+C:\Users\nivas\Documents\c#\moedas e notas\bin\Debug\net5.0\moedas e notas.pdb
+C:\Users\nivas\Documents\c#\moedas e notas\obj\Debug\net5.0\moedas e notas.csproj.AssemblyReference.cache
+C:\Users\nivas\Documents\c#\moedas e notas\obj\Debug\net5.0\moedas e notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nivas\Documents\c#\moedas e notas\obj\Debug\net5.0\moedas e notas.AssemblyInfoInputs.cache
+C:\Users\nivas\Documents\c#\moedas e notas\obj\Debug\net5.0\moedas e notas.AssemblyInfo.cs
+C:\Users\nivas\Documents\c#\moedas e notas\obj\Debug\net5.0\moedas e notas.csproj.CoreCompileInputs.cache
+C:\Users\nivas\Documents\c#\moedas e notas\obj\Debug\net5.0\moedas e notas.dll
+C:\Users\nivas\Documents\c#\moedas e notas\obj\Debug\net5.0\refint\moedas e notas.dll
+C:\Users\nivas\Documents\c#\moedas e notas\obj\Debug\net5.0\moedas e notas.pdb
+C:\Users\nivas\Documents\c#\moedas e notas\obj\Debug\net5.0\moedas e notas.genruntimeconfig.cache
+C:\Users\nivas\Documents\c#\moedas e notas\obj\Debug\net5.0\ref\moedas e notas.dll
