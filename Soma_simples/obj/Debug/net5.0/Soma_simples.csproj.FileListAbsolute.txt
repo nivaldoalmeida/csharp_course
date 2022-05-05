@@ -1,0 +1,16 @@
+C:\Users\nivas\Documents\c#\Soma_simples\bin\Debug\net5.0\Soma_simples.exe
+C:\Users\nivas\Documents\c#\Soma_simples\bin\Debug\net5.0\Soma_simples.deps.json
+C:\Users\nivas\Documents\c#\Soma_simples\bin\Debug\net5.0\Soma_simples.runtimeconfig.json
+C:\Users\nivas\Documents\c#\Soma_simples\bin\Debug\net5.0\Soma_simples.runtimeconfig.dev.json
+C:\Users\nivas\Documents\c#\Soma_simples\bin\Debug\net5.0\Soma_simples.dll
+C:\Users\nivas\Documents\c#\Soma_simples\bin\Debug\net5.0\Soma_simples.pdb
+C:\Users\nivas\Documents\c#\Soma_simples\obj\Debug\net5.0\Soma_simples.csproj.AssemblyReference.cache
+C:\Users\nivas\Documents\c#\Soma_simples\obj\Debug\net5.0\Soma_simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nivas\Documents\c#\Soma_simples\obj\Debug\net5.0\Soma_simples.AssemblyInfoInputs.cache
+C:\Users\nivas\Documents\c#\Soma_simples\obj\Debug\net5.0\Soma_simples.AssemblyInfo.cs
+C:\Users\nivas\Documents\c#\Soma_simples\obj\Debug\net5.0\Soma_simples.csproj.CoreCompileInputs.cache
+C:\Users\nivas\Documents\c#\Soma_simples\obj\Debug\net5.0\Soma_simples.dll
+C:\Users\nivas\Documents\c#\Soma_simples\obj\Debug\net5.0\refint\Soma_simples.dll
+C:\Users\nivas\Documents\c#\Soma_simples\obj\Debug\net5.0\Soma_simples.pdb
+C:\Users\nivas\Documents\c#\Soma_simples\obj\Debug\net5.0\Soma_simples.genruntimeconfig.cache
+C:\Users\nivas\Documents\c#\Soma_simples\obj\Debug\net5.0\ref\Soma_simples.dll

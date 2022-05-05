@@ -1,0 +1,16 @@
+C:\Users\nivas\Documents\c#\Produto_simples\bin\Debug\net5.0\Produto_simples.exe
+C:\Users\nivas\Documents\c#\Produto_simples\bin\Debug\net5.0\Produto_simples.deps.json
+C:\Users\nivas\Documents\c#\Produto_simples\bin\Debug\net5.0\Produto_simples.runtimeconfig.json
+C:\Users\nivas\Documents\c#\Produto_simples\bin\Debug\net5.0\Produto_simples.runtimeconfig.dev.json
+C:\Users\nivas\Documents\c#\Produto_simples\bin\Debug\net5.0\Produto_simples.dll
+C:\Users\nivas\Documents\c#\Produto_simples\bin\Debug\net5.0\Produto_simples.pdb
+C:\Users\nivas\Documents\c#\Produto_simples\obj\Debug\net5.0\Produto_simples.csproj.AssemblyReference.cache
+C:\Users\nivas\Documents\c#\Produto_simples\obj\Debug\net5.0\Produto_simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nivas\Documents\c#\Produto_simples\obj\Debug\net5.0\Produto_simples.AssemblyInfoInputs.cache
+C:\Users\nivas\Documents\c#\Produto_simples\obj\Debug\net5.0\Produto_simples.AssemblyInfo.cs
+C:\Users\nivas\Documents\c#\Produto_simples\obj\Debug\net5.0\Produto_simples.csproj.CoreCompileInputs.cache
+C:\Users\nivas\Documents\c#\Produto_simples\obj\Debug\net5.0\Produto_simples.dll
+C:\Users\nivas\Documents\c#\Produto_simples\obj\Debug\net5.0\refint\Produto_simples.dll
+C:\Users\nivas\Documents\c#\Produto_simples\obj\Debug\net5.0\Produto_simples.pdb
+C:\Users\nivas\Documents\c#\Produto_simples\obj\Debug\net5.0\Produto_simples.genruntimeconfig.cache
+C:\Users\nivas\Documents\c#\Produto_simples\obj\Debug\net5.0\ref\Produto_simples.dll

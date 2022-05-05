@@ -1,0 +1,16 @@
+C:\Users\nivas\Documents\c#\Media_1\bin\Debug\net5.0\Media_1.exe
+C:\Users\nivas\Documents\c#\Media_1\bin\Debug\net5.0\Media_1.deps.json
+C:\Users\nivas\Documents\c#\Media_1\bin\Debug\net5.0\Media_1.runtimeconfig.json
+C:\Users\nivas\Documents\c#\Media_1\bin\Debug\net5.0\Media_1.runtimeconfig.dev.json
+C:\Users\nivas\Documents\c#\Media_1\bin\Debug\net5.0\Media_1.dll
+C:\Users\nivas\Documents\c#\Media_1\bin\Debug\net5.0\Media_1.pdb
+C:\Users\nivas\Documents\c#\Media_1\obj\Debug\net5.0\Media_1.csproj.AssemblyReference.cache
+C:\Users\nivas\Documents\c#\Media_1\obj\Debug\net5.0\Media_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nivas\Documents\c#\Media_1\obj\Debug\net5.0\Media_1.AssemblyInfoInputs.cache
+C:\Users\nivas\Documents\c#\Media_1\obj\Debug\net5.0\Media_1.AssemblyInfo.cs
+C:\Users\nivas\Documents\c#\Media_1\obj\Debug\net5.0\Media_1.csproj.CoreCompileInputs.cache
+C:\Users\nivas\Documents\c#\Media_1\obj\Debug\net5.0\Media_1.dll
+C:\Users\nivas\Documents\c#\Media_1\obj\Debug\net5.0\refint\Media_1.dll
+C:\Users\nivas\Documents\c#\Media_1\obj\Debug\net5.0\Media_1.pdb
+C:\Users\nivas\Documents\c#\Media_1\obj\Debug\net5.0\Media_1.genruntimeconfig.cache
+C:\Users\nivas\Documents\c#\Media_1\obj\Debug\net5.0\ref\Media_1.dll

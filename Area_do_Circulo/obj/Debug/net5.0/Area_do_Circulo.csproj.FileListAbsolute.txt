@@ -3,3 +3,14 @@ C:\Users\nivas\Documents\c#\Area_do_Circulo\obj\Debug\net5.0\Area_do_Circulo.Gen
 C:\Users\nivas\Documents\c#\Area_do_Circulo\obj\Debug\net5.0\Area_do_Circulo.AssemblyInfoInputs.cache
 C:\Users\nivas\Documents\c#\Area_do_Circulo\obj\Debug\net5.0\Area_do_Circulo.AssemblyInfo.cs
 C:\Users\nivas\Documents\c#\Area_do_Circulo\obj\Debug\net5.0\Area_do_Circulo.csproj.CoreCompileInputs.cache
+C:\Users\nivas\Documents\c#\Area_do_Circulo\bin\Debug\net5.0\Area_do_Circulo.exe
+C:\Users\nivas\Documents\c#\Area_do_Circulo\bin\Debug\net5.0\Area_do_Circulo.deps.json
+C:\Users\nivas\Documents\c#\Area_do_Circulo\bin\Debug\net5.0\Area_do_Circulo.runtimeconfig.json
+C:\Users\nivas\Documents\c#\Area_do_Circulo\bin\Debug\net5.0\Area_do_Circulo.runtimeconfig.dev.json
+C:\Users\nivas\Documents\c#\Area_do_Circulo\bin\Debug\net5.0\Area_do_Circulo.dll
+C:\Users\nivas\Documents\c#\Area_do_Circulo\bin\Debug\net5.0\Area_do_Circulo.pdb
+C:\Users\nivas\Documents\c#\Area_do_Circulo\obj\Debug\net5.0\Area_do_Circulo.dll
+C:\Users\nivas\Documents\c#\Area_do_Circulo\obj\Debug\net5.0\refint\Area_do_Circulo.dll
+C:\Users\nivas\Documents\c#\Area_do_Circulo\obj\Debug\net5.0\Area_do_Circulo.pdb
+C:\Users\nivas\Documents\c#\Area_do_Circulo\obj\Debug\net5.0\Area_do_Circulo.genruntimeconfig.cache
+C:\Users\nivas\Documents\c#\Area_do_Circulo\obj\Debug\net5.0\ref\Area_do_Circulo.dll

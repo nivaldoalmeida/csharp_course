@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Soma_simples/1.0.0": {
+        "runtime": {
+          "Soma_simples.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Soma_simples/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
