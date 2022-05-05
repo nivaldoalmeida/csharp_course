@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Numeros_positivos/1.0.0": {
+        "runtime": {
+          "Numeros_positivos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Numeros_positivos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
