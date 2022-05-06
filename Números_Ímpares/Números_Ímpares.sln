@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Números_Ímpares", "Números_Ímpares.csproj", "{AE29DEF4-3581-44BE-B2C2-C506D6CBF69A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE29DEF4-3581-44BE-B2C2-C506D6CBF69A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE29DEF4-3581-44BE-B2C2-C506D6CBF69A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE29DEF4-3581-44BE-B2C2-C506D6CBF69A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE29DEF4-3581-44BE-B2C2-C506D6CBF69A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE1D9CB9-320B-43E2-B4BD-887B98AECABE}
+	EndGlobalSection
+EndGlobal
