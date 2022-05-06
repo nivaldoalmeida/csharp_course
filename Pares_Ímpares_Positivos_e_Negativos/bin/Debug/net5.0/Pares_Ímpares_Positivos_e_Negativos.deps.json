@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Pares_Ímpares_Positivos_e_Negativos/1.0.0": {
+        "runtime": {
+          "Pares_Ímpares_Positivos_e_Negativos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pares_Ímpares_Positivos_e_Negativos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
