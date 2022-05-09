@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "laços_de_repetição", "laços_de_repetição.csproj", "{B87FFDEF-62A2-4DDC-AD89-6232D7445F6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B87FFDEF-62A2-4DDC-AD89-6232D7445F6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B87FFDEF-62A2-4DDC-AD89-6232D7445F6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B87FFDEF-62A2-4DDC-AD89-6232D7445F6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B87FFDEF-62A2-4DDC-AD89-6232D7445F6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB964D71-F799-40AB-9F43-BCDF32C2F12A}
+	EndGlobalSection
+EndGlobal
